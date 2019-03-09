@@ -2,9 +2,11 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues)
 
-I get a lot of questions by email. This way anyone can read the answer!
+I get a lot of questions in my courses, email, and elsewhere. This way anyone can read the answer!
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
+
+Note [I have courses on Docker, Swarm, and upcoming Docker for Node.js here](https://www.bretfisher.com/docker).
 
 ---
 
