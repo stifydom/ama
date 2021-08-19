@@ -1,12 +1,14 @@
-# (Mostly Docker, some DevOps) Ask me anything!
+# (Mostly Docker, Kubernetes, and DevOps) Ask me anything!
 
-## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues)
+**2021 Update: I'm converting Issues to Discussions, so check old and new AMAs in the Discussions tab.**
+
+## [Ask a question](../../discussions/new) &nbsp;&nbsp;&nbsp; [Read questions](../../discussions)
 
 I get a lot of questions in my courses, email, and elsewhere. This way anyone can read the answer!
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
-Note [I have courses on Docker, Swarm, and upcoming Docker for Node.js here](https://www.bretfisher.com/docker).
+Note [I have courses on Docker, Swarm, and upcoming Docker for Node.js here](https://www.bretfisher.com/courses).
 
 ---
 
