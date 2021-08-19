@@ -1,4 +1,4 @@
-# (Mostly Docker, Kubernetes, and DevOps) Ask me anything!
+# Ask me anything! (Mostly Docker, Kubernetes, and DevOps)
 
 **2021 Update: I'm converting Issues to Discussions, so check old and new AMAs in the Discussions tab.**
 
