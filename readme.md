@@ -8,7 +8,7 @@ I get a lot of questions in my courses, email, and elsewhere. This way anyone ca
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
-Note [I have courses on Docker, Swarm, and upcoming Docker for Node.js here](https://www.bretfisher.com/courses).
+Note [I have courses on Docker, Kubernetes, Swarm, and Docker for Node.js here](https://www.bretfisher.com/courses).
 
 ---
 
